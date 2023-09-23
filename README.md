@@ -1,16 +1,27 @@
-### Hi there 👋
+# Nycole Gs 
 
-<!--
-**nyck-dev/nyck-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quem sou eu 🙃
+Me chamo Nycole, tenho 19 anos e sou estudante de desenvolvimento Front-End. 😁
 
-Here are some ideas to get you started:
+Inicie meus estudos no ano de 2022 por pura curiosidade, mas me apaixonei pela área rapidamente e hoje busco constantemente por mais conhecimento. Unindo minhas habilidades em desing e progamação, desejo proporcionar boas experiências para as pessoas, além de contribuir para a comunidade levando esse conhecimento além. 🚀💡
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Onde me encontrar 🤔
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-122620?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/nycolegomes/) 
+[![Instagram](https://img.shields.io/badge/Instagram-122620?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/nyck.dev/)
+
+
+## Habilidades 😎
+![HTML5](https://img.shields.io/badge/HTML5-122620?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-122620?style=for-the-badge&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-122620?style=for-the-badge&logo=javascript&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-122620?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-122620?style=for-the-badge&logo=github&logoColor=fff) 
+
+## Estou aprendendo 🤓
+![Angular](https://img.shields.io/badge/Angular-122620?style=for-the-badge&logo=angular&logoColor=fff)
+![Java](https://img.shields.io/badge/java-122620?style=for-the-badge&logo=java&logoColor=fff)
+
+
+## Estatísticas do GitHub 🫡
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyck-dev&theme=transparent&_color=000&border_color=009929&show_icons=true&icon_color=009929&title_color=009929&text_color=FFF)
