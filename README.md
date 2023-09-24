@@ -22,6 +22,7 @@ Inicie meus estudos no ano de 2022 por pura curiosidade, mas me apaixonei pela �
 ![Angular](https://img.shields.io/badge/Angular-122620?style=for-the-badge&logo=angular&logoColor=fff)
 ![Java](https://img.shields.io/badge/java-122620?style=for-the-badge&logo=java&logoColor=fff)
 
-
+<!--
 ## Estatísticas do GitHub 🫡
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyck-dev&theme=transparent&_color=000&border_color=009929&show_icons=true&icon_color=009929&title_color=009929&text_color=FFF)
+-->
