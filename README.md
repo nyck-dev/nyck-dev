@@ -6,11 +6,6 @@ Me chamo Nycole, tenho 19 anos e sou estudante de desenvolvimento Front-End. �
 Inicie meus estudos no ano de 2022 por pura curiosidade, mas me apaixonei pela área rapidamente e hoje busco constantemente por mais conhecimento. Unindo minhas habilidades em desing e progamação, desejo proporcionar boas experiências para as pessoas, além de contribuir para a comunidade levando esse conhecimento além. 🚀💡
   
 
-## Você pode me encontrar também em 🧐
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-122620?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/nycolegomes/) 
-[![Instagram](https://img.shields.io/badge/Instagram-122620?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/nyck.dev/)
-
-
 ## Habilidades 😎
 ![HTML5](https://img.shields.io/badge/HTML5-122620?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-122620?style=for-the-badge&logo=css3&logoColor=fff)
@@ -20,7 +15,11 @@ Inicie meus estudos no ano de 2022 por pura curiosidade, mas me apaixonei pela �
 
 ## Estou aprendendo 🤓
 ![Angular](https://img.shields.io/badge/Angular-122620?style=for-the-badge&logo=angular&logoColor=fff)
-![Java](https://img.shields.io/badge/java-122620?style=for-the-badge&logo=java&logoColor=fff)
+![Java](https://img.shields.io/badge/java-122620?style=for-the-badge&logo=java&logoColor=fff) 
+
+## Você pode me encontrar também em 🧐
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-122620?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/nycolegomes/) 
+[![Instagram](https://img.shields.io/badge/Instagram-122620?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/nyck.dev/)
 
 <!--
 ## Estatísticas do GitHub 🫡
