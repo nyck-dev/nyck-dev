@@ -18,7 +18,7 @@ Inicie meus estudos no ano de 2022 por pura curiosidade, mas me apaixonei pela �
 ![Java](https://img.shields.io/badge/java-122620?style=for-the-badge&logo=java&logoColor=fff) 
 
 ## Você pode me encontrar também em 🧐
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-122620?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/nycolegomes/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-122620?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/nycolegs/) 
 [![Instagram](https://img.shields.io/badge/Instagram-122620?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/nyck.dev/)
 
 <!--
