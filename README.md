@@ -1,23 +1,21 @@
-# Nycole Gs 
+# Olá 👋 Meu nome é Nycole
 
-## Quem sou eu 🙃
-Me chamo Nycole, tenho 19 anos e sou estudante de desenvolvimento Front-End. 😁
+- 🔭 Atualmente estou trabalhando nas minhas skills para criar e contribuir em projetos de sucesso 😉
+- 🌱 Atualmente estou aprendendo React e Bootstrap 👩‍💻
+- ⚡ Curiosidades: Eu ❤️ 🐶&😺&🎨&🎧
 
-Inicie meus estudos no ano de 2022 por pura curiosidade, mas me apaixonei pela área rapidamente e hoje busco constantemente por mais conhecimento. Unindo minhas habilidades em desing e progamação, desejo proporcionar boas experiências para as pessoas, além de contribuir para a comunidade, levando esse conhecimento além. 🚀💡
-  
+### ✨ Sobre mim
+Sou entusiasta de tecnologia e de tudo que pareça com tecnologia.  😁
+Iniciei meus estudos no ano de 2022 por pura curiosidade, mas me apaixonei pela área rapidamente e hoje busco constantemente por mais conhecimento.
 
-## Habilidades 😎
+### 😎 Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-122620?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-122620?style=for-the-badge&logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-122620?style=for-the-badge&logo=javascript&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-122620?style=for-the-badge&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-122620?style=for-the-badge&logo=github&logoColor=fff) 
 
-## Estou aprendendo 🤓
-![Angular](https://img.shields.io/badge/Angular-122620?style=for-the-badge&logo=angular&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/bootstrap-122620?style=for-the-badge&logo=bootstrap&logoColor=fff) 
-
-## Você pode me encontrar também em 🧐
+## 🔗 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-122620?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/nycolegs/) 
 [![Instagram](https://img.shields.io/badge/Instagram-122620?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/nyck.dev/)
 
