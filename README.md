@@ -20,7 +20,7 @@ Iniciei meus estudos no ano de 2022 por pura curiosidade, mas me apaixonei pela 
 
 
 ### 📕 Onde tenho dedicado meu tempo
-- Curso livre sobre [Desenvolvimento Full Stack](https://github.com/nyck-dev/desenvolvimeto-web-udemy) na [Udemy](https://www.udemy.com/course/web-completo/), onde uso como base para o #100daysofcode.
+- Desafio 100 dias de código com o curso Desenvolvimento Web na Udemy | Acompanhe -> [#100daysofcode](https://github.com/nyck-dev/100-days-of-code-2024)
 - Lendo [eFront](https://hotmart.com/pt-br/club/iuricode). 
 
 
