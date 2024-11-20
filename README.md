@@ -1,13 +1,13 @@
 # Olá 👋 Meu nome é Nycole
 
 - 🔭 Atualmente estou trabalhando nas minhas skills para criar e contribuir em projetos de sucesso 😉
-- 🌱 Atualmente estou aprendendo React e Bootstrap 👩‍💻
+- 🌱 Estou construindo meu portfólio. 👩‍💻
 - ⚡ Curiosidades: Eu ❤️ 🐶&😺&🎨&🎧
 
 
 ### ✨ Sobre mim
-Sou entusiasta de tecnologia e de tudo que pareça com tecnologia.  😁
-Iniciei meus estudos no ano de 2022 por pura curiosidade, mas me apaixonei pela área rapidamente e hoje busco constantemente por mais conhecimento.
+Sou entusiasta de tecnologia e de tudo que pareça com tecnologia. 😁
+Meu primeiro contato com programação aconteceu em 2022, mas me apaixonei pela área rapidamente e hoje busco constantemente por mais conhecimento.
 
 
 ### 😎 Habilidades
@@ -20,8 +20,9 @@ Iniciei meus estudos no ano de 2022 por pura curiosidade, mas me apaixonei pela 
 
 
 ### 📕 Onde tenho dedicado meu tempo
-- Desafio 100 dias de código com o curso Desenvolvimento Web na Udemy | Acompanhe -> [#100daysofcode](https://github.com/nyck-dev/100-days-of-code-2024)
-- Lendo [eFront](https://hotmart.com/pt-br/club/iuricode). 
+<!-- Desafio 100 dias de código com o curso Desenvolvimento Web na Udemy | Acompanhe -> [#100daysofcode](https://github.com/nyck-dev/100-days-of-code-2024)-->
+- Lendo [eFront](https://hotmart.com/pt-br/club/iuricode).
+- Criando meu portfólio que será disponibilizado em breve. 
 
 
 ### 🔗 Conecte-se comigo
